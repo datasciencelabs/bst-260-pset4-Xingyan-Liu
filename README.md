@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Problem Set 4: Data Wrangling (API Data Extraction, Web Scraping, and COVID-19 Data Analysis)
 
 ## Overview
